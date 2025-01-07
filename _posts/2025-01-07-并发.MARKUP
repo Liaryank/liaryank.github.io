@@ -1,0 +1,34 @@
+Front Matter
+锁升级
+
+https://blog.csdn.net/tongdanping/article/details/79647337
+
+GC 收集器
+
+https://blog.csdn.net/michaelgo/article/details/82226733
+
+
+
+递归
+
+https://blog.csdn.net/hu_jia_neu/article/details/105142877
+
+
+
+分布式事务
+
+https://www.bilibili.com/video/BV1FJ411A7mV?p=26&spm_id_from=pageDriver
+
+
+
+性能调优 诸葛
+
+bilibili.com/video/BV1p4411D7bV?p=4
+
+GC日志
+
+```java
+-XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+PrintGCDateStamps -Xloggc:D:\\gc.log
+```
+
+Tomcat直接加载java_Opts里
